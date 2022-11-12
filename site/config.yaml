@@ -1,0 +1,11 @@
+baseURL: https://waiiit.com/
+languageCode: en-us
+title: What am I Interested in Today?
+theme: stack
+
+params:
+  sidebar:
+    subtitle: The ramblings of a distracted developer
+    avatar:
+      enabled: true
+      src: jarofmoths.jpg
